@@ -12,8 +12,8 @@
 
 
 *::selection{
-    background: var(--yellow);
-    color: white;
+    background: greenyellow;
+    color: black;
 }
 
 
@@ -49,7 +49,7 @@ section {
 .btn{
     padding: .7rem 1rem;
     background: #333;
-    color: white;
+    color: greenyellow;
     cursor: pointer;
     margin-top: 1rem;
     font-size: 2rem;
@@ -74,7 +74,7 @@ section {
     font-size: 4rem;
     padding: 1rem;
     border-bottom: .1rem solid grey;
-    color: white;
+    color: greenyellow;
 }
 
 
